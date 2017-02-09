@@ -1,0 +1,6 @@
+console
+val l = List(3,6,2)
+val l=List(3,6,2)
+l
+val l=List(3,5)
+exit
